@@ -1,5 +1,5 @@
 # COS10005 Web Development - Week 10 Lab (jQuery)
----
+
 
 ## Lab Overview
 This project demonstrates the use of **jQuery** and JavaScript to enhance user interaction on web forms[cite: 9]. It covers:
